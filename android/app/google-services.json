@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532148761628",
+    "firebase_url": "https://copergas-20.firebaseio.com",
+    "project_id": "copergas-20",
+    "storage_bucket": "copergas-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532148761628:android:2aea5fbc93086bf8379bd9",
+        "android_client_info": {
+          "package_name": "br.com.copergas.copergascliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532148761628-459g7bb6k8dkcih1aht964ra7bkucc5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYZToWQQ4FJS7az3q1WDn1L0zsQayvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532148761628-459g7bb6k8dkcih1aht964ra7bkucc5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
